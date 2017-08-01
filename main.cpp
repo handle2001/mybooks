@@ -1,5 +1,6 @@
 #include "book.h"
-
+/* This is a text comment just to show I can make edits */
+/* This is another comment that I forgot to add earlier */
 using namespace std;
 
 int main( int argc, char **argv ){
